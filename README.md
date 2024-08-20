@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Mohamed44Ashraf
 - 👀 I’m a computer science student
 - 🌱 I’m currently a begginer data analyst
-- 💞️ I’m looking to be a data scientist
 - 📫 mail :mohammedddashraf@gmail.com
        Tel   :01212837393
 <!---
