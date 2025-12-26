@@ -1,73 +1,25 @@
-# 👋 Hi, I'm Mohamed Ashraf Ezzat
+# Hi , I'm Mohamed Ashraf 👋
 
-🎯 **Data Scientist | Data Analyst | Machine Learning Enthusiast**
+### Data Scientist
 
-I’m a Data Scientist & Data Analyst with a strong passion for **Machine Learning** and **Generative AI**.  
-I focus on transforming data into meaningful insights, building analytical solutions, and developing practical ML models that solve real-world problems.
 
----
+- 🔭 **I'm currently working as Programming Instructor & Technical Mentor, with experience teaching Python , Data Science and Generative AI**
 
-## 🎓 Education
-🎓 **Faculty of Computers & Artificial Intelligence**  
-Benha University, Egypt
+- 🌱 I'm currently learning **Generative AI and advanced topics in Machine Learning and Data Science**
 
----
+- 📫 How to reach me **mohammedddashraf@gmail.com**
 
-## 👨‍🏫 Experience
-👨‍🏫 **Programming Instructor & Technical Mentor**  
-- Teaching Python and core programming concepts  
-- Mentoring students in **Data Science, AI, and Software Development**  
-- Supporting learners through hands-on projects and real use cases  
+- 📄 Know about my experiences **[CV](https://drive.google.com/drive/folders/1q6AsN1UPiXEkl3h37S5O86544L7RaBvf?usp=sharing)**
 
----
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://github.com/Mohamed44Ashraf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Mohamed44Ashraf" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/mohamed-ashraf-b422a8282/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohamed-ashraf-b422a8282/" height="30" width="40" /></a>
+<a href="https://kaggle.com/https://www.kaggle.com/mohamed444ashraf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/mohamed444ashraf" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/mohamed.ashraf.840290?locale=ar_AR" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/mohamed.ashraf.840290?locale=ar_AR" height="30" width="40" /></a>
+<a href="https://hackerrank.com/https://www.hackerrank.com/profile/mohammedddashraf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/mohammedddashraf" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/mohamed444ashraf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="mohamed444ashraf" height="30" width="40" /></a>
+</p>
 
-## 📚 Currently Studying
-📌 **Generative AI**  
-📌 **Advanced Machine Learning & Data Science Topics**
-
----
-
-## 🛠️ Tech Stack & Tools
-
-### 🧠 Data Science & Machine Learning
-- Python 🐍  
-- NumPy, Pandas  
-- Scikit-learn  
-- TensorFlow, Keras  
-- Machine Learning Algorithms  
-- Model Evaluation & Feature Engineering  
-
-### 📊 Data Analysis & Visualization
-- SQL (SQL Server)  
-- Excel (Advanced, Power Pivot, DAX)  
-- Power BI  
-- Tableau  
-- Data Cleaning & Exploratory Data Analysis (EDA)  
-
-### 💾 Databases & Data Engineering
-- SQL Server  
-- Data Warehousing (DW)  
-- SSIS  
-
-### 🌐 Other Skills
-- Git & GitHub  
-- REST APIs  
-- Problem Solving  
-- Technical Mentoring  
-
----
-
-## 🌍 Connect With Me
-
-🔗 **LinkedIn:**  
-https://www.linkedin.com/in/mohamed44ashraf/
-
-📧 **Email:**  
-mohammedddashraf@gmail.com
-
-🏆 **Kaggle:**  
-https://www.kaggle.com/mohamed444ashraf
-
----
-
-⭐ *Always learning, always building, and always improving.*
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/anaconda" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=anaconda" alt="anaconda" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/aws" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=aws" alt="aws" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/azure" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=azure" alt="azure" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/> </a>  <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/fastapi" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=fastapi" alt="fastapi" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/flask" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=flask" alt="flask" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a>  </br> <a href="https://developer.mozilla.org/en-US/docs/Web/huggingface" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/huggingface" alt="huggingface" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/jupyter" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/keras" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" alt="keras" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/langchain" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/langchain/1C3C3C" alt="langchain" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/matplotlib" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mlflow" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/mlflow/0194E2" alt="mlflow" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/numpy" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a> </br> <a href="https://developer.mozilla.org/en-US/docs/Web/opencv" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=opencv" alt="opencv" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/pandas" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/pytorch" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=pytorch" alt="pytorch" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/scikit_learn" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=scikitlearn" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/seaborn" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/streamlit" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" alt="streamlit" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tensorflow" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tensorflow" alt="tensorflow" width="40" height="40"/> </a></p>
